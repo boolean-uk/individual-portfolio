@@ -17,7 +17,7 @@ I wanted to make full use of what I learnt and apply this knowledge / the feedba
 
 Online Hosted Portfolio
 ## Portfolio GitHub Repo
-https://github.com/AllyDouillette/instructions-individual-portfolio
+https://github.com/AllyDouillette/Rebeccas-individual-portfolio
 
 ✔︎  Stage, commit and push your changes; then raise a PR -- as per the usual process
  If any information changes, update it, and push your changes (especially important for the links)
