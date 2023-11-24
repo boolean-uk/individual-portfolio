@@ -3,6 +3,9 @@
 ## About my Portfolio
 
 I started with a Miroboard and generally worked up a design. The design was simple with a pretty standard layout. A left menu, header, main, footer. 
+
+- Miro Board link: https://miro.com/app/board/uXjVNMdgq7k=/
+- 
 I didnt want the webpage to be very colourful but in the Miro board I used bold colours to easily see the general design I wanted to try. My goal here was to create a nonscrolling webpage. I notice it is what is popular nowadays but I felt a page that you navigate around by clicking and not scrolling would be practise for me and I ended up following the Miro board quite closely. 
 
 The CSS was done with lots of effects and colour. I wanted to have a fun page. One day when I am more confident and feel for professional I will make a more sleek and clean cut design. I figured I might as well have fun with this. I dont want to be hired because I am a robot.
@@ -13,5 +16,5 @@ I used mainly React in this project. I like it because it is a nice mixture of a
 
 ## Links
 
-- My repo (https://github.com/PeachyOmnivore/my-portfolio)
-- Deployed Website (https://fanciful-puppy-47af16.netlify.app)
+- My repo https://github.com/PeachyOmnivore/my-portfolio
+- Deployed Website https://fanciful-puppy-47af16.netlify.app
