@@ -39,4 +39,3 @@ my project
 ### Instructions
 
 1. Clone the repo and run `npm install`
-2. From the car-rental folder run `npm run dev`
