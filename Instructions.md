@@ -4,7 +4,7 @@ I have designed the portfolio page to simple yet ergonomic in design. From the h
 
 I did not take inspiration from any other sources when creating this profile.
 
-I have used HTML, CSS and a bit of Javascript in this while constucting it using REACT.
+I have used HTML, CSS and a bit of Javascript in this while constructing it using REACT.
 
 portfolio-nine-pearl-75.vercel.app
 
