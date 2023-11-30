@@ -1,4 +1,9 @@
-Welcome to my portfolio! This repository showcases my skills, projects, and experience. Whether you're a potential employer, collaborator, or just curious about my work, I hope you find what you're looking for.
+
+Please here find the link to see my personal portfolio --
+https://github.com/loza01/Personal-Portfolio 
+
+on the repo you will find my portfolio
+ This repository showcases my skills, projects, and experience. Whether you're a potential employer, collaborator, or just curious about my work, I hope you find what you're looking for.
 
 Table of Contents
 About Me
@@ -6,9 +11,7 @@ Projects
 Experience
 Contact
 
-
-Projects
-is linked to my git hub and code pen but still i'm working on it to display project 
+Projects is linked to my git hub and code pen but still i'm working on it to display project 
 
 Education to be added
 I will educational background, including degrees earned, institutions attended, and graduation dates.
