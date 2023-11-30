@@ -1,0 +1,119 @@
+:root {
+  --lightbackground: linear-gradient(333deg, rgba(183,238,255,1) 0%, rgb(239, 225, 255) 33%, rgba(255,220,244,1) 66%, rgba(247,237,223,1) 100%);
+  --darkbackground: linear-gradient(333deg, rgb(86, 135, 150) 0%, rgb(114, 89, 143) 33%, rgb(155, 48, 121)66%, rgb(213, 159, 84) 100%);
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  overflow: scroll;
+  text-align: justify;
+  --white: rgba(255, 255, 255, 1);
+  --black: rgb(75, 75, 75, 1);
+  background: rgb(183,238,255);
+  color: var(--black);
+  background: var(--lightbackground)
+}
+
+#dark {
+  background: var(--darkbackground);
+}
+
+.container {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-areas: "header"
+  "main"
+  "footer";
+  grid-template-rows: minmax(min-content, 80px) 1fr minmax(min-content, 50px);
+  width: 100vw;
+  height: 100%;
+}
+
+header {
+  grid-area: "header";
+  display: grid;
+  place-content: center;
+  background: rgba(247,237,223,0.25);
+}
+
+main {
+  grid-area: "main";
+  justify-self: center;
+  padding: 2em;
+  width: 50%;
+}
+
+.projectCard {
+  border-radius: 1em;
+  background-color: rgb(255, 255, 255, 0.6);
+  padding: 1em 2em;
+  margin: 3em 1em;
+}
+
+.projectCard buttoncontainer {
+  margin: 1em 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1em;
+  justify-content: end;
+  align-items: center;
+}
+
+h2 {
+  color: rgb(107, 27, 90)
+}
+
+h3, b {
+  color: rgb(203, 47, 169)
+}
+
+footer {
+  padding: 1em;
+  align-self: end;
+  grid-area: "footer";
+  background: rgb(183,238,255, 0.25);
+}
+
+.imgContainer {
+  margin: 2em;
+  border-radius: 100%;
+  background-color: rgba(255,255,255,0.5);
+  min-width: 50px;
+  aspect-ratio: 1;
+  overflow: hidden;
+  width: 30px;
+  display: inline-flex;
+}
+
+img {
+  height: 100%;
+}
+
+.profile {
+  width: 200px;
+}
+
+.about {
+  display: grid;
+  grid-template-columns: 3fr 7fr;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
