@@ -1,5 +1,5 @@
 1. Link to the deployed portfolio: 
-https://sprightly-biscuit-59d7d5.netlify.app/#mywork
+https://loredana-benzar.netlify.app/
 
 2. Link to the GitHub repository:
 https://github.com/LAVINIABENZAR/My-Portfolio
