@@ -1,5 +1,7 @@
 # Individual Portfolio
 
+https://enchanting-centaur-d1fc31.netlify.app
+
 ## Contents
 
 - [Overview](#overview)
@@ -128,3 +130,7 @@ There are various approaches, and it depends on what sort of site/application yo
 
   > Whichever Netlify  guide you follow, be sure to do the steps fo adding a `_redirects` file to enable both React SPA 
   > and React with Routing apps to work properly. 
+
+# Link to the Github Repository
+
+https://github.com/Faiza-tech/Portfolio
